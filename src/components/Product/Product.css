@@ -1,0 +1,26 @@
+.single-product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+}
+.product-content {
+    margin-left: 5px;
+}
+.product-title {
+    font-weight: 400;
+    color: blue;
+    margin-top: 50px;
+}
+.product-btn {
+    width: 150px;
+    background-color: rgb(246, 179, 91);
+    margin-bottom: 10px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.product-btn:hover {
+    background-color: rgb(248, 175, 80);
+}

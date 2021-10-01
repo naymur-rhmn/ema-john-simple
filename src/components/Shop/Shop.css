@@ -1,0 +1,15 @@
+.shop-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container {
+    border-right: 1px solid lightgrey;
+    margin-right: 10px;
+    margin-left: 20%;
+}
+.order-title {
+    text-align: center;
+}
+.order-title p {
+    font-size: 18px;
+}
